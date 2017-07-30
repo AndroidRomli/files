@@ -153,6 +153,3 @@ function a_to_fa() {
     a_to_vf = protected_links.split(",");
     return a_to_vf;
 }
-
-5. Jika sudah silahkan Upload di yourjavascript atau Sites Google
-6. Jika sudah di Upload, silahkan kalian Simpan URL tersebut di dalam Page yang sudah kalian simpan Javascript (Langkah No.3)
